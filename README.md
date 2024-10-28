@@ -1,2 +1,2 @@
 # MedsMayhem
-GameDevFinalProject
+Game Development Final Project
